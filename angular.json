@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "synergy-crash-course"
+    }
+  },
+  "defaultProject": "synergy-crash-course",
+  "cli": {
+    "analytics": "5285e49d-1fe8-4e88-a90d-b3941a923f98"
+  }
 }
